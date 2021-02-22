@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mortgage-offer/static/css/main.904d9fb9.chunk.css",
+    "main.js": "/mortgage-offer/static/js/main.9c12894c.chunk.js",
+    "main.js.map": "/mortgage-offer/static/js/main.9c12894c.chunk.js.map",
+    "runtime-main.js": "/mortgage-offer/static/js/runtime-main.97a5fac0.js",
+    "runtime-main.js.map": "/mortgage-offer/static/js/runtime-main.97a5fac0.js.map",
+    "static/js/2.68d681dc.chunk.js": "/mortgage-offer/static/js/2.68d681dc.chunk.js",
+    "static/js/2.68d681dc.chunk.js.map": "/mortgage-offer/static/js/2.68d681dc.chunk.js.map",
+    "index.html": "/mortgage-offer/index.html",
+    "precache-manifest.f1ac0854b71a6199e39b0e565b06a84c.js": "/mortgage-offer/precache-manifest.f1ac0854b71a6199e39b0e565b06a84c.js",
+    "service-worker.js": "/mortgage-offer/service-worker.js",
+    "static/css/main.904d9fb9.chunk.css.map": "/mortgage-offer/static/css/main.904d9fb9.chunk.css.map",
+    "static/js/2.68d681dc.chunk.js.LICENSE.txt": "/mortgage-offer/static/js/2.68d681dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mortgage-offer/static/media/LatoLight.c9064bf9.ttf",
+    "static/media/header.css": "/mortgage-offer/static/media/man.529c2384.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a5fac0.js",
+    "static/js/2.68d681dc.chunk.js",
+    "static/css/main.904d9fb9.chunk.css",
+    "static/js/main.9c12894c.chunk.js"
+  ]
+}
